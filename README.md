@@ -1,95 +1,57 @@
 # ArchRPG-Plans
-My Server Plans , I Will Make It As Hobby When I Have A Proper Work!
+Update for first period, start on September 29th, 2016
 #
-#
-.ToDo
 
 #Server Plans
 
-Type: Real MMORPG Style
-
-OnlineMode: Not PortForward .
+Type: RPG with a help from PocketRPG
 
 --
-Features:
+Features: 22
 
-- There Will Be No AlwaysSpawn!
+- [x] Guilds Implement! (GuildsRPG)
 
-- Remove /spawn /hub and /lobby
+- [x] No AlwaysSpawn (I hate that plugin)
 
-- The Lobby Only For New User.
+- [x] Custom Fantasy Map (so huge)
 
-- Get Into Portal Teleport To The Real Map.
+- [x] Custom Quests for User!
 
-- Given 5 Main Town, 10 Village , Alot Of Dungeon , And So On..
+- [x] Skills, Party wih particle!
 
-- Player Will Be Random Tp To The 5 Main Town.
+- [x] Pets support (no bug!)
 
-- Give GoldenApple When Player Killing.
+- [x] Money 4 Killing Implement!
 
-- Guild And PartyQuest Implement.
+- [x] Gamemode 1 and 2 only, no gamemode 0 allowed (because of RPG)
 
-- Add Stats To Player.
+- [x] Mana using Hunger System!
 
-- Shop And AI NPC Implement.
+- [x] Level System Implement!
 
-- Map Are Unlimited.
+- [x] Allow Adventure like a boss! LOLLL
 
-- 50Mill Block Away For Each Main Town.
+- [ ] Try to implement Fantasy-like RPG (will work on that)
 
-- Safe Zone Only In Main Town,Village,And SafeZone.
+- [x] Boss Implement!
 
-- Portal To Unlock Other Town Require 10K Coins For Each Town.
+- [x] Classic Job earning money system!
 
-- Quest Are Randomly Generate By AI Core Development.
+- [x] Global Chat using PurePerm (so classic)
 
-- Sword Skill Implement.
+- [ ] Background Music Implement!
 
-- No Breaking Block.
+- [x] New API!
 
-- Coins Get By Completing Quest ,Raid, Monster Kill,Kill Player.
+- [x] Keep Inventory on Death!
 
-- Custom Monster.
+- [x] NoDrops System!
 
-- Level Implement.
+- [ ] Custom Enchantment!
 
-- Job/Class Implement.
+- [x] TradeCraft with Crafting Table support!
 
-- Hide Player Name.Only Player From Same Party Or Guild.Player Name Can Be Exchange For Other Player.Player NameTag Will Be A Green Arrow And When They Kill A Player It Will Turn To Orange Arrow For 20 Minutes.
-
-- Chat System Are Only For Nearby.
-
-- Chat Will Not Shows In Chat Bar.The Chat Will Be On Up Of Player NameTag.
-
-- Custom Music Background.
-
-- To Increase Health Need HealthPoint(HP) Potion.The Hunger Will Be The ManaPoint(MP)
-
-- Custom Exp Feature Using The Exp Bar .
-
-- Custom Revive Spawn Will Be 40 Seconds.
-
-- Revive Near Town Or Village Or SafeZone Or The Latest Safe Inn.
-
-- Inventory Upon Die Will Not Disseapear .Keeped In The Player Inventory.
-
-- When Die Will Drop Coins and GoldenApple.
-
-- Custom Stats Like STR , Dex , Int , Luck.
-
-- Each Level Up Increase Max Health And Max Mana.
-
-- Skill Only By Command.Triggered When Player Attack.Have Delay Time Each Skill.
-
-- Add Gachapon Where U Have A Ticket Called Gachapon Ticket. How To Use When U Tap On The GachaMachine.Get Random Rare Items.
-
-- CashShop Implement,Where U Can Customize Player Appreance ,Usimg Others Type Economys.
-
-- Pets That Are So AI!
-
-- Custom Potions!
-
-- RareItems LOL!
+- [ ] RarePack, MysteryChest
 
 
 
@@ -97,45 +59,11 @@ Features:
 
 
 --
-This Is The Real How To Make Server That Will Make The Biggest Profit!!
+#The Project has been started by @Adam1609, any helping will be very welcome!
 
-#Gain Real Money By Selling In BuyCraft InGame Coins,Gachapon,CashShop,Pet,RareItem,ExpPoint.
-
-See!!
+#I am the only Vietnamese in this repository!!! So please help me!
 
 
 
 
-#Done Things List Down:
-
-- MaxPlayer Health Into 100.
-
-- Chat Floating.
-
-- Hide Chat In ChatBar.
-
-- Change NameTag Into ⬇.
-
-- McMMO Stats.
-
-- Lobby For Beginner.
-
-- Death Drops GoldenApple.
-
-- Attack Speed.
-
-- Shot Target Popup.
-
-- Kill Coins.
-
-- Custom Death Message.
-
-- NoInventoryLost.
-
-- Pets Implement.(Bugs)
-
-- NoHunger.
-
-- NoBlockBreak.
-
-- 
+#Brought to you by ARCore Team
